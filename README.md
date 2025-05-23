@@ -1,2 +1,2 @@
 # barn-system
-Vercel to Github
+Typical Barn System to store documents
